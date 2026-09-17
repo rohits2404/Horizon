@@ -1,0 +1,8 @@
+{
+    "servers": {
+        "Sentry": {
+            "url": "https://mcp.sentry.dev/mcp/ro-organization/javascript-nextjs-horizon",
+            "type": "http"
+        }
+    }
+}
